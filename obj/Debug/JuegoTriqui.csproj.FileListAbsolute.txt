@@ -1,0 +1,10 @@
+C:\Users\Andres\source\repos\JuegoTriqui\bin\Debug\JuegoTriqui.exe.config
+C:\Users\Andres\source\repos\JuegoTriqui\bin\Debug\JuegoTriqui.exe
+C:\Users\Andres\source\repos\JuegoTriqui\bin\Debug\JuegoTriqui.pdb
+C:\Users\Andres\source\repos\JuegoTriqui\obj\Debug\JuegoTriqui.csproj.AssemblyReference.cache
+C:\Users\Andres\source\repos\JuegoTriqui\obj\Debug\JuegoTriqui.Form1.resources
+C:\Users\Andres\source\repos\JuegoTriqui\obj\Debug\JuegoTriqui.Properties.Resources.resources
+C:\Users\Andres\source\repos\JuegoTriqui\obj\Debug\JuegoTriqui.csproj.GenerateResource.cache
+C:\Users\Andres\source\repos\JuegoTriqui\obj\Debug\JuegoTriqui.csproj.CoreCompileInputs.cache
+C:\Users\Andres\source\repos\JuegoTriqui\obj\Debug\JuegoTriqui.exe
+C:\Users\Andres\source\repos\JuegoTriqui\obj\Debug\JuegoTriqui.pdb
